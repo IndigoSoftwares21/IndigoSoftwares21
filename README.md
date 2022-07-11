@@ -24,12 +24,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+---
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IndigoSoftwares21&theme=cobalt)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IndigoSoftwares21&show_icons=true&theme=radical)
-
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IndigoSoftwares21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
