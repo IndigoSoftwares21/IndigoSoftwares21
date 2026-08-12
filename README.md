@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Precious Orjiude
 - 👀 I’m interested in Programming and Electronics
 - 🌱 I’m currently learning Web Development and Robotics
-- 📫 How to reach me preciousorjiude@gmail.com
+- 📫 How to reach me: preciousorjiude@gmail.com
 
 ---
 
